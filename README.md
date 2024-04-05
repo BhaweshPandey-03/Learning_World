@@ -2,7 +2,7 @@
 Welcome to Learning World, a versatile learning platform designed to empower you with access to courses offered by top-tier universities worldwide. Whether you're eager to delve into a particular subject area or keen on honing your skills, Learning World provides the perfect environment for your educational journey.
 
 ## Project Type
-Frontend | Backend | Fullstack
+Frontend | Backend | Full Stack
 
 ## Deplolyed App
 Frontend: https://65db47bd0acc2cd7481f5439--reliable-maamoul-68e5bc.netlify.app/
