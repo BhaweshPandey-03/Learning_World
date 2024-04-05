@@ -8,40 +8,35 @@ Frontend | Backend | Fullstack
 Frontend: https://65db47bd0acc2cd7481f5439--reliable-maamoul-68e5bc.netlify.app/
 
 ## Directory Structure
-# LearningWorld
 
-## frontend
+my-app/
+├─ frontend/
+│  ├─ .eslintrc.cjs
+│  ├─ .gitignore
+│  ├─ README.md
+│  ├─ index.html
+│  ├─ package-lock.json
+│  ├─ package.json
+│  ├─ postcss.config.js
+│  ├─ tailwind.config.js
+│  └─ vite.config.js
+│  └─ src/
+│     ├─ Allroutes/
+│     ├─ Redux/
+│     ├─ components/
+│     ├─ data/
+│     ├─ images/
+│     ├─ pages/
+│     ├─ styles/
+│     ├─ App.css
+│     ├─ App.jsx
+│     ├─ index.css
+│     ├─ loginvdo.mp4
+│     ├─ logo.png
+│     ├─ logo.svg
+│     └─ main.jsx
+└─ backend/
 
-- .eslintrc.cjs
-- .gitignore
-- README.md
-- index.html
-- package-lock.json
-- package.json
-- postcss.config.js
-- tailwind.config.js
-- vite.config.js
-
-### src
-
-- Allroutes/
-- Redux/
-- components/
-- data/
-- images/
-- pages/
-- styles/
-- App.css
-- App.jsx
-- index.css
-- loginvdo.mp4
-- logo.png
-- logo.svg
-- main.jsx
-
-## backend
-
-- Online server (render.com)
 
 
 ## Video Walkthrough of the project
