@@ -9,34 +9,34 @@ Frontend: https://65db47bd0acc2cd7481f5439--reliable-maamoul-68e5bc.netlify.app/
 
 ## Directory Structure
 
-my-app/
-├─ frontend/
-│  ├─ .eslintrc.cjs
-│  ├─ .gitignore
-│  ├─ README.md
-│  ├─ index.html
-│  ├─ package-lock.json
-│  ├─ package.json
-│  ├─ postcss.config.js
-│  ├─ tailwind.config.js
-│  └─ vite.config.js
-│  └─ src/
-│     ├─ Allroutes/
-│     ├─ Redux/
-│     ├─ components/
-│     ├─ data/
-│     ├─ images/
-│     ├─ pages/
-│     ├─ styles/
-│     ├─ App.css
-│     ├─ App.jsx
-│     ├─ index.css
-│     ├─ loginvdo.mp4
-│     ├─ logo.png
-│     ├─ logo.svg
-│     └─ main.jsx
-└─ backend/
-
+my-app/<br>
+├─ frontend/<br>
+│  ├─ .eslintrc.cjs<br>
+│  ├─ .gitignore<br>
+│  ├─ README.md<br>
+│  ├─ index.html<br>
+│  ├─ package-lock.json<br>
+│  ├─ package.json<br>
+│  ├─ postcss.config.js<br>
+│  ├─ tailwind.config.js<br>
+│  └─ vite.config.js<br>
+│  └─ src/<br>
+│     ├─ Allroutes/<br>
+│     ├─ Redux/<br>
+│     ├─ components/<br>
+│     ├─ data/<br>
+│     ├─ images/<br>
+│     ├─ pages/<br>
+│     ├─ styles/<br>
+│     ├─ App.css<br>
+│     ├─ App.jsx<br>
+│     ├─ index.css<br>
+│     ├─ loginvdo.mp4<br>
+│     ├─ logo.png<br>
+│     ├─ logo.svg<br>
+│     └─ main.jsx<br>
+└─ backend/<br>
+    └─ Online Server ( render.com )
 
 
 ## Video Walkthrough of the project
