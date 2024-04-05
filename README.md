@@ -35,7 +35,7 @@ LearningWorld/<br>
 │     ├─ logo.png<br>
 │     ├─ logo.svg<br>
 │     └─ main.jsx<br>
-└─ backend --> Online Server ( render.com )/<br>
+└─ backend --> Online Server ( render.com )<br>
 
 
 ## Video Walkthrough of the project
