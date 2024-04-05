@@ -16,7 +16,7 @@ my-app/
 https://youtu.be/keWAEvFTAHI
 
 ## Video Walkthrough of the codebase
-Attach a very short video walkthough of codebase [ 1 - 5 minutes ]
+https://www.youtube.com/watch?v=keWAEvFTAHI
 
 ## Features
 List out the key features of your application.
