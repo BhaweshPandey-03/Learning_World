@@ -9,7 +9,7 @@ Frontend: https://65db47bd0acc2cd7481f5439--reliable-maamoul-68e5bc.netlify.app/
 
 ## Directory Structure
 
-my-app/<br>
+LearningWorld/<br>
 ├─ frontend/<br>
 │  ├─ .eslintrc.cjs<br>
 │  ├─ .gitignore<br>
